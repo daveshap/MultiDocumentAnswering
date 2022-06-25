@@ -1,0 +1,10 @@
+Use the following passage to give a detailed answer to the question:
+
+
+QUESTION: <<QUERY>>
+
+
+PASSAGE: <<PASSAGE>>
+
+
+DETAILED ANSWER:
